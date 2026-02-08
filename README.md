@@ -34,7 +34,7 @@ allowing flexible sensitivity adjustment depending on environmental conditions.
 The following diagram shows the interfacing of the LDR sensor module, relay
 module, and Arduino Uno used in this project.
 
-![Circuit Diagram](docs/circuit-diagram.png)
+![Circuit Diagram](docs/circuit-diagram.jpg)
 
 ## Hardware Components
 
