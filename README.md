@@ -70,9 +70,9 @@ energy consumption.
 
 ## Project Documentation
 
-The complete project report, including circuit diagrams, implementation
-procedure, experimental results, and analysis, is available in the `docs/`
-directory.
+The complete project report is available as a PDF:
+
+- 📄 **Report:** [Automatic Outdoor Lighting Control System Report](docs/report.pdf)
 
 ---
 
